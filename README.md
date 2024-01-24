@@ -3,7 +3,8 @@ Hi there
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Chris from hubli
+</p>
 
 ###
 
@@ -11,7 +12,7 @@ Hi there
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning BCA<br>🎯 Goals: DATA SCIENTIST<br>🎲 Fun fact:Why did the man miss the funeral? He wasn’t a mourning person.
+<p align="left">✨ Creating bugs since born<br>📚 I'm currently learning BCA<br>🎯 Goals: DATA SCIENTIST<br>🎲 Fun fact:Why did the man miss the funeral? He wasn’t a mourning person.
 
  </p>
 
