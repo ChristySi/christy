@@ -11,7 +11,9 @@ Hi there
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning BCA<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning BCA<br>🎯 Goals: DATA SCIENTIST<br>🎲 Fun fact:Why did the man miss the funeral? He wasn’t a mourning person.
+
+ </p>
 
 ###
 
@@ -24,10 +26,7 @@ Hi there
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
+
 
 </div>
 
